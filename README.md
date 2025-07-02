@@ -12,8 +12,9 @@
 - 最終的に、github 上の main ブランチに、３回以上の merge が記録されていれば、課題をクリアしたことになります。
 
 ### 多摩大学の講義で面白かったもの
-- AL Competitive Programming
-- Challenging 
+- AL Competitive Programming  
+- データ構造とアルゴリズムの基礎  
+- 実践的な演習で理解が深まった点が興味深かったです。
 
 ### 最近ゼミでやっていること
 - （活動の内容）←ここ書き換え
